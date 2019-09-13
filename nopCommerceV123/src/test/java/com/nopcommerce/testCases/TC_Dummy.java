@@ -5,5 +5,6 @@ public class TC_Dummy
 	void test()
 	{
 		System.out.println("This is dummy test....");
+		System.out.println("update....");
 	}
 }
