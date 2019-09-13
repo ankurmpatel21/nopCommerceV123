@@ -1,1 +1,7 @@
-this is dummy test cases created by another tester x...
+class TC_Dummy3
+{
+	void test()
+	{
+		//somthing
+	}
+}
